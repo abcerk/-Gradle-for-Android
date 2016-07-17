@@ -1,1 +1,1 @@
-# -Gradle-for-Android
+# Gradle for Android 翻译
